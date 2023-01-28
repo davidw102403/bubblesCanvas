@@ -65,11 +65,11 @@ var maxRadius = 40;
 // var minRadius = 2;
 
 var colorArray = [
-    '#91BBF2',
-    '#035AA6',
-    '#023059',
-    '#011526',
-    '#0367A6',
+    '#F7E7A6',
+    '#FFF8DE',
+    '#FFF3C4',
+    '#8D92F7',
+    '#C4C7FF',
 ]
 
 window.addEventListener('resize', function(event) {

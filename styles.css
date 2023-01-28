@@ -1,17 +1,17 @@
 canvas {
     border: 1px solid black;
+    background-color: black;
   }
 
-  body {
-    margin: 0;
-  }
+body {
+  margin: 0;
+}
   
-  .description {
-    position: absolute;
-    z-index: 100;
-    color: orange;
-    font-family: Roboto, Arial;
-    margin-left: 25px;
-  }
-
+.description {
+  position: absolute;
+  z-index: 100;
+  color: white;
+  font-family: Roboto, Arial;
+  margin-left: 25px;
+}
 
